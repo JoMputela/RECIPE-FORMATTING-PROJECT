@@ -1,0 +1,127 @@
+#headerimage { background-image: url('beef-cheek-ragu-recipe-feature.jpg');
+			max-width: 100%;
+			height: 310px;
+			padding: 20px;
+
+}
+
+
+h1 {color: green;
+    text-align: center;
+    font-size: 40pt;
+
+}
+
+h2 {color:green;
+	font-size: 15pt;
+
+
+	}
+
+h4 {color:green;
+	font-size: 15pt;
+
+
+	}
+
+
+
+
+
+#list-items {
+	width: 100%;
+	border-style: solid;
+	background: brown;
+	flex-wrap: nowrap;
+	border-color: #DC7633;
+
+}
+
+
+#main {background-color: #D7DBDD; 
+		font:12pt; 
+		width: 100%;
+		display: flex;
+
+
+	}
+#mainheader {
+	width: 100%;
+
+
+}
+
+
+
+#article1 { 
+	margin-top: 30px;
+		width: 50%; 
+		float: left; 
+		
+		display: flex;
+		font-family: 'Indie Flower', cursive;
+		background-color: #D7DBDD;
+	
+		
+}
+
+#article2 { 
+		width: 49%; 
+		float: right; 
+		
+		display: flex;
+		font-family: 'Indie Flower', cursive;
+		background-color: #D7DBDD;
+		}
+
+#images { width: 100%;
+		height:600px;
+		background-color: #DC7633;
+		justify-content: space-between;
+		display: flex;
+}
+
+section {
+	width: 100%;
+	height: auto;
+	display:flex;
+	justify-content: space-between;
+}
+
+
+p {
+	font-family: 'Chewy', cursive;
+	text-align: center;
+
+}
+
+#container1 {
+	width: 100%;
+		height:250px;
+		background-color: white;
+		justify-content: space-between;
+		display: flex;
+
+}
+
+#container2 {
+	width: 100%;
+	height: auto;
+	display:flex;
+	justify-content: space-between;
+
+}
+
+#cook-pic {
+	width: 100%
+	
+}
+
+
+
+
+
+
+
+
+
